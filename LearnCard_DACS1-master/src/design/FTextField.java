@@ -10,7 +10,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author anhtho
+ * @author
  */
 public class FTextField extends JTextField {
 	private Color fillColor;
